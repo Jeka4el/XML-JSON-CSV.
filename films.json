@@ -1,0 +1,38 @@
+{
+	"films": [{
+			"title": "Borat",
+			"year": 2006,
+			"time": 84,
+			"budget": 18000000,
+			"Film company": "20th Century Fox"
+	},
+{
+			"title": "The Mask",
+			"year": 1994,
+			"time": 101,
+			"budget": 23000000,
+			"Film company": "New Line Productions"
+	},
+{
+			"title": "Into the Wild",
+			"year": 2007,
+			"time": 148,
+			"budget": 15000000,
+			"Film company": "Art Linson Productions"
+	},
+	{
+			"title": "The Beach",
+			"year": 2000,
+			"time": 119,
+			"budget": 50000000,
+			"Film company": "20th Century Fox"
+	},
+	{
+			"title": "xXx",
+			"year": 2002,
+			"time": 124,
+			"budget": 70000000,
+			"Film company": "Columbia Pictures"
+	}
+]
+}

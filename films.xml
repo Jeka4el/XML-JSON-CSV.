@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+	<film>
+		<title>Borat</title>
+		<year>2006</year>
+		<time>84</time>
+		<budget>18000000</budget>
+		<Film_company>20th Century Fox</Film_company>
+	</film>
+	<film>
+		<title>The Mask</title>
+		<year>1994</year>
+		<time>101</time>
+		<budget>23000000</budget>
+		<Film_company>2New Line Productions</Film_company>
+	</film>
+	<film>
+		<title>Into the Wild</title>
+		<year>2007</year>
+		<time>148</time>
+		<budget>15000000</budget>
+		<Film_company>Art Linson Productions</Film_company>
+	</film>
+	<film>
+	<title>The Beach</title>
+		<year>2000</year>
+		<time>119</time>
+		<budget>50000000</budget>
+		<Film_company>20th Century Fox</Film_company>
+	</film>
+	<film>
+		<title>xXx</title>
+		<year>2002</year>
+		<time>124</time>
+		<budget>7000000</budget>
+		<Film_company>Columbia Pictures</Film_company>
+	</film>
+
+</films>
+	
